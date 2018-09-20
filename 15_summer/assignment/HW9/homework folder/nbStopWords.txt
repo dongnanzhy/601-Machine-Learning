@@ -1,0 +1,3 @@
+what values seem to improve the classifier?
+   The accuracy increase to 0.8333 if I remove top 25 stop words, and continue to increase to 0.8611 if I remove top 40 stop words, and then seem to stop increasing even if I remove top thousands of words.
+   I think this is because stop words have some influence on predicting the result. However, there are some other factors that can influence the result like subjective of the author, so even we remove enough stop words we cannot get the 100 percent accuracy either.

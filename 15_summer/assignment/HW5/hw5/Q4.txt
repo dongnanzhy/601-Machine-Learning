@@ -1,0 +1,2 @@
+Train and test a decision tree for the music dataset and the education dataset. Which is more accurate on the training data? Which is more accurate on the testing data? 
+   The music dataset has more accuracy on training data and testing data.

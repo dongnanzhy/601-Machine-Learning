@@ -1,0 +1,7 @@
+Try your program with q = 0, .1, .5, 1, 5   —what values seem to improve the classifier?
+  When q = 0, accuracy is 0.7778
+  When q = 0.1, accuracy is 0.8333
+  When q = 0.5 and 1, accuracy is 0.8056
+  When q = 5, accuracy is 0.6944
+
+  As can be seen, we need to do smooth for better result, but the parameter of smoothing should not be too large. I think this is because the goal for smoothing is to exclude the probabilities which are equal to 0, but if the parameter is too big, it will over smooth the distribution, means making the extremely small probability not that small, and making the extremely large probability not that large, thus, the result is not accurate.

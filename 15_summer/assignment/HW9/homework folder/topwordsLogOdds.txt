@@ -1,0 +1,8 @@
+What kind of words did you find?
+  Words I find are highly representative of Class of the blog. For example, the second word with the highest log-odds ratio for liberal is “righteousness”, it is reasonable since this word is closely related to liberal. So these words mean blog in one class use much more often than blogs of the other class. 
+
+Are there any overlapping words between the two lists? 
+  There wont be any overlap, since the value is calculated by the ratio of two conditional probabilities, and one word must has higher frequency in liberal blog than conservative blog, or the opposite. This means if P(W|lib)/P(W|con) is larger than 1, P(W|con)/P(W|lib) must be smaller than 1.  
+
+How are these words different from what you found with topwords.java?
+  In topwords.java, the words are stop words which has a high frequency in both blogs, and have very little meaning. However, words listed in this file are on the opposite, they are very meaningful, highly representative of the class of blog. Because words in this file means have frequencies in one class much higher than the other, means authors of one class use most often while authors in the other class rarely use

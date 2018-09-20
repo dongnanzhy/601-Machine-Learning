@@ -1,0 +1,4 @@
+Do the two lists look different? 
+No, they look quit similar.
+Are there any overlapping words? In general, what kind of words are they?
+There are many overlapping words. In general, they are mostly stop words like “the”,”of”, link verb like “was” or “were”, and personal pronoun like “they”

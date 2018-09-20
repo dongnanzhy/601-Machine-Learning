@@ -1,0 +1,2 @@
+Which variables are useful for the education task.
+   I guess that “F” might be useful. Since “F” stands for the final exam, and from our common sense, the total multiple choice assignments and programming assignments may be equally weighted as final exam, but for a single assignment, it is most likely to be less important than the final exam. 

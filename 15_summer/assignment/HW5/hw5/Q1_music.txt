@@ -1,0 +1,3 @@
+Which variables are useful for the music task.
+   I guess that “year” might be useful. From intuitive thinking, an old song has more chance to hit the Top 50, since people are more likely to love old songs because some of them are truly classic and be remembered by people for many years.
+   Also, when I sort the value of “year”, I found that it can split the distribution of classification apparently, with most hit on year before 1950s.

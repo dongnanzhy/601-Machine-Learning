@@ -1,0 +1,2 @@
+Do you think a decision tree will work for the music dataset? What about for the education dataset?
+   I think decision tree can work well for these two tasks. Because all the instances are described as attribute-value pairs. And the target function is discrete valued to make these tasks classification problems. So we can make each internal node as attribute and each leaf assigns a classification. 
